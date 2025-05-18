@@ -1,6 +1,7 @@
-Vou escrever o que eu aprendi para fazer o primeira previsão de Vendas utilizando o Machine Learning
+ESTUDO DE CASO DA CRIAÇÃO DE UMA SOLUÇÃO DE INGESTÃO DE DADOS
 
-1. O pedido é para gerarmos previsão de vendas pelo machine learning. Foi indicado que temos uma variáveis que faz a alteração da quantidade de vendas de sorte. Uma é temperatura. 
-Conforme a temperatura aumenta a quantidade de vendas de picolé aumenta. Sem planejamento pode sobrar ou faltar sorte. foi pedido essa avaliação para minimizar perdas e maximizar as vendas.  
+Neste projeto, aplicarei o que aprendi para realizar minha primeira previsão de vendas utilizando Machine Learning. O objetivo é gerar previsões de vendas com base em variáveis que impactam diretamente na demanda. Foi identificado que um dos fatores que influenciam a quantidade de vendas de picolé é a temperatura – quanto mais quente, maior a procura. Sem um planejamento adequado, podem ocorrer excessos ou falta de estoque, impactando negativamente os resultados. A análise foi solicitada para minimizar perdas e maximizar as vendas.
 
-observação: 1 - Este na esta no pedido mas é uma observação que estou indicando para meu próximo projeto. como sou da área de vendas no Recreio dos bandeirantes, eu sei que o dia da semana também influencia muito. Os melhores dias são sábado, domingo e dias de feriado.
+OBSERVAÇÃO PARA PROJETOS FUTUROS
+
+Embora esse aspecto não tenha sido mencionado no pedido original, uma variável adicional que pretendo explorar em um próximo projeto é o dia da semana. Como atuo na área de vendas no Recreio dos Bandeirantes, sei que os dias com maior demanda são sábados, domingos e feriados. Considerar esse fator pode aprimorar ainda mais a previsão e a gestão do estoque.
